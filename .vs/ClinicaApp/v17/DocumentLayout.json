@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ClinicaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\repository\\consultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\repository\\consultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\service\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\service\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\dominio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\dominio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\crosscutting\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\crosscutting\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\dominio\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\dominio\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\service\\iconsultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\service\\iconsultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\repository\\iconsultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\repository\\iconsultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\interfaceservice\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\interfaceservice\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\crosscutting\\dtotoentitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\crosscutting\\dtotoentitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\crosscutting\\entitytodtomaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\crosscutting\\entitytodtomaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|c:\\users\\user\\source\\repos\\clinicaapp\\clinicaapp\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293F7FD3-6555-47FE-9ED9-3D96A059D32A}|ClinicaApp\\ClinicaApp.csproj|solutionrelative:clinicaapp\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ClinicaApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:05:24.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ClinicaApp\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:49:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\Cliente.cs",
+              "RelativeToolTip": "ClinicaApp\\Dominio\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:51:56.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "ClinicaApp\\Controllers\\ConsultaController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:30:06.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultaService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\ConsultaService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Service\\ConsultaService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\ConsultaService.cs",
+              "RelativeToolTip": "ClinicaApp\\Service\\ConsultaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:33:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Program.cs",
+              "RelativeToolTip": "ClinicaApp\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:50:44.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IConsultaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Repository\\IConsultaRepository.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Repository\\IConsultaRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Repository\\IConsultaRepository.cs",
+              "RelativeToolTip": "ClinicaApp\\Repository\\IConsultaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:26:28.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Repository\\ConsultaRepository.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Repository\\ConsultaRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Repository\\ConsultaRepository.cs",
+              "RelativeToolTip": "ClinicaApp\\Repository\\ConsultaRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:25:33.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Dominio\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\ApplicationUser.cs",
+              "RelativeToolTip": "ClinicaApp\\Dominio\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:51:24.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\Consulta.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Dominio\\Consulta.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Dominio\\Consulta.cs",
+              "RelativeToolTip": "ClinicaApp\\Dominio\\Consulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:03:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ClinicaApp\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:06:42.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Crosscutting\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "ClinicaApp\\Crosscutting\\AutoMapperConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:41:39.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\WeatherForecast.cs",
+              "RelativeToolTip": "ClinicaApp\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:06:48.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\UserService.cs",
+              "RelativeToolTip": "ClinicaApp\\Service\\UserService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:01:37.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConsultaService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\IConsultaService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Service\\IConsultaService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\IConsultaService.cs",
+              "RelativeToolTip": "ClinicaApp\\Service\\IConsultaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:34:32.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\InterfaceService\\IClientService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\InterfaceService\\IClientService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\InterfaceService\\IClientService.cs",
+              "RelativeToolTip": "ClinicaApp\\InterfaceService\\IClientService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:02:19.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\InterfaceService\\IUserService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\InterfaceService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\InterfaceService\\IUserService.cs",
+              "RelativeToolTip": "ClinicaApp\\InterfaceService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:00:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ClinicaApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:59:27.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\appsettings.json",
+              "RelativeToolTip": "ClinicaApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T01:56:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntityToDTOMaper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\EntityToDTOMaper.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Crosscutting\\EntityToDTOMaper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\EntityToDTOMaper.cs",
+              "RelativeToolTip": "ClinicaApp\\Crosscutting\\EntityToDTOMaper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:48:07.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTOToEntityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\DTOToEntityMapper.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Crosscutting\\DTOToEntityMapper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Crosscutting\\DTOToEntityMapper.cs",
+              "RelativeToolTip": "ClinicaApp\\Crosscutting\\DTOToEntityMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:50:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ClinicaApp\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ClinicaApp\\ClinicaApp\\Service\\ClienteService.cs",
+              "RelativeToolTip": "ClinicaApp\\Service\\ClienteService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:03:24.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
